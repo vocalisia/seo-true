@@ -1,4 +1,4 @@
-﻿node_modules
+node_modules
 .next
 .turbo
 out
@@ -15,5 +15,5 @@ e2e
 coverage
 .env.local
 .env.*.local
-docs/
 README.md
+docs/

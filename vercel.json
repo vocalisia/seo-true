@@ -6,6 +6,41 @@
       "source": "/index.html",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/blog/alternative-a-oliverlist-2026-top-5-agences-prospection-b2b",
+      "destination": "/oliverlist-alternative",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-autoseo-alternatives-2026-complete-comparison",
+      "destination": "/getautoseo-alternative",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-earn-5000-month-with-seo-in-2025-complete-guide",
+      "destination": "/blog/how-to-earn-5000month-with-seo-in-2025-complete-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-earn-5000-month-with-seo-in-2026-complete-guide",
+      "destination": "/blog/how-to-earn-5000month-with-seo-in-2025-complete-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/link-building-2025-strategie-complete-pour-obtenir-des-backlinks",
+      "destination": "/blog/link-building-2026-strategie-complete-pour-obtenir-des-backlinks",
+      "permanent": true
+    },
+    {
+      "source": "/blog/referencement-naturel-guide-complet-seo-du-debutant-a-lexpert-2026",
+      "destination": "/blog/referencement-naturel-guide-complet-2026-seo-debutant-a-expert",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-on-page-les-10-techniques-indispensables-en-2026",
+      "destination": "/blog/seo-on-page-les-10-techniques-indispensables-en-2025",
+      "permanent": true
     }
   ],
   "headers": [
